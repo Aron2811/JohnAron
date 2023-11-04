@@ -96,7 +96,7 @@
 @media(max-width: 768px) {
   
   .container  {
-    height: 180vh;
+    height: 160vh;
     width: 100%;
     margin: auto;
     background-size: cover;
@@ -108,10 +108,10 @@
   .grid {
     display: grid;
     grid-template-columns: 0fr;
-    row-gap: 55px;
+    row-gap: 30px;
   }
   .thumbnail1 {
-    margin-top: 150px;
+    margin-top: 70px;
 }
   .thumbnail1 img  {
     width: 250px;
@@ -125,19 +125,25 @@
 
   .thumbnail3 img {
     width: 250px;
-   
+
   }
 
   .thumbnail1 p {
-    font-size: 30px;
+    font-size: 27px;
+    padding-top: 15px;
+    text-align: middle;
   }
 
   .thumbnail2 p {
-    font-size: 30px;
+    font-size: 27px;
+    padding-top: 15px;
+    text-align: middle;
   }
 
   .thumbnail3 p {
-    font-size: 30px;
+    font-size: 27px;
+    padding-top: 15px;
+    text-align: middle;
   }
 
 }
