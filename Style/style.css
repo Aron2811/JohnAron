@@ -96,7 +96,7 @@
 @media(max-width: 768px) {
   
   .container  {
-    height: 110vh;
+    height: 180vh;
     width: 100%;
     margin: auto;
     background-size: cover;
@@ -108,9 +108,11 @@
   .grid {
     display: grid;
     grid-template-columns: 0fr;
-    row-gap: 1px;
+    row-gap: 55px;
   }
-
+  .thumbnail1 {
+    margin-top: 150px;
+}
   .thumbnail1 img  {
     width: 250px;
     
