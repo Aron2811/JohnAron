@@ -44,7 +44,7 @@
   color: white;
   font-size: 17px;
   text-align: center;
-  
+  padding-top: 15px;
 }
 
 .thumbnail1:hover {
@@ -67,6 +67,7 @@
   color: white;
   font-size: 17px;
   text-align: center;
+  padding-top: 15px;
 }
 .thumbnail2:hover {
   cursor: pointer;
@@ -88,6 +89,7 @@
   color: white;
   font-size: 17px;
   text-align: center;
+  padding-top: 15px;
 }
 .thumbnail3:hover {
   cursor: pointer;
