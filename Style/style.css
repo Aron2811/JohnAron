@@ -99,7 +99,7 @@
 @media(max-width: 598px) {
   
   .container  {
-    height: 160vh;
+    height: 200vh;
     width: 100%;
     margin: auto;
     background-size: cover;
