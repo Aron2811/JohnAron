@@ -99,13 +99,15 @@
 @media(max-width: 598px) {
   
   .container  {
-    height: 200vh;
+    height: 170vh;
     width: 100%;
     margin: auto;
     background-size: cover;
     background-position: center;
-    overflow: hidden;
     background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
   }
 
   .grid {
